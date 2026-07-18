@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 项目质量审计"
+  short_description: "以风险地图、证据复现、测试先行和质量台账持续审计软件项目"
+  default_prompt: "使用 $agent-project-quality-audit 对当前项目建立质量地图，并执行一轮有边界、可验证的只读审计。"
